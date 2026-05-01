@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 Spotlight: Amazon AIdeaS 2026 — Finalist
+## 🚀 Spotlight: Amazon AIdeaS 2026 — Innovation Award Winner
 
 > Built **[RetainIQ](https://retainiq.cloud/)** — an AI-powered cloud product — and reached the **finalist stage** of Amazon's global AI innovation competition.  
 > Published a detailed technical deep-dive on the AWS Builder Center.
