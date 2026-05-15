@@ -2,7 +2,7 @@
 
 # Samyak Jain
 
-**Software Engineer @ UBS · XLRI PGDM Finance · Amazon AIdeaS 2026 Finalist**
+**Software Engineer @ UBS · XLRI PGDM Finance · Amazon AIdeaS 2026 Winner**
 
 *Building cloud-native systems by day. Shipping AI products at night.*
 
