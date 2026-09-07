@@ -7,7 +7,7 @@
 *Building cloud-native systems by day. Shipping AI products at night.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-samyakj05-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samyakj05/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-samyak.space-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://samyak.space/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-samyak.space-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://samyak.space)
 [![GitHub](https://img.shields.io/badge/GitHub-SamyakJ05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamyakJ05)
 [![Email](https://img.shields.io/badge/Email-sj.samyakj@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sj.samyakj@gmail.com)
 [![X](https://img.shields.io/badge/X-_samyakk-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_samyakk)
@@ -123,9 +123,13 @@ Outside work, I'm deep in the AI builder ecosystem: automating workflows with **
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**RetainIQ**](https://retainiq.cloud/) | AI-powered cloud product — Amazon AIdeaS 2026 Finalist | AI, Cloud, LLMs |
-| [**Flaura**](https://github.com/SamyakJ05/Flaura) | Flower Recognition Android Application | Android, ML |
-| [**NLP-Project**](https://github.com/SamyakJ05/NLP-Project) | Sentiment Analysis on IMDB Dataset | Python, NLP, Jupyter |
+| [**RetainIQ**](https://retainiq.cloud/) | AI knowledge-risk platform — Amazon AIdeaS 2026 Innovation Category Winner | Bedrock, AWS Lambda, DynamoDB, React |
+| [**Apex Atlas**](https://apexatlas.online) | F1 intelligence platform — GPS-accurate circuit telemetry, live race command hub, pit-strategy studio | Next.js 16, React 19, TypeScript |
+| [**ProofBoard**](https://proofboard.samyak.space) | Evidence-first research workspace with server-enforced private workspaces | Next.js 16, TypeScript, Neon Postgres |
+| [**KineticFlow**](https://kinetic-flow.netlify.app) | Browser-native motion studio where a designer and an AI agent share one canvas via WebMCP | WebMCP, TypeScript, Canvas |
+| [**Soul Train**](https://soul-train-rqyr.onrender.com) | Mood-driven Spotify playlist generator with listening analytics | Python, Flask, Spotify API |
+| [**SignalScan**](https://github.com/SamyakJ05/SEO-Optimisation) | Self-hosted SEO/AI-readiness crawler with evidence-backed action plans | Python, FastAPI, Playwright, React |
+| [**Email Verifier**](https://github.com/SamyakJ05/Email-Verifier) | Local SMTP-based email list verifier with catch-all detection | Python, SMTP, SQLite |
 
 ---
 
@@ -145,6 +149,8 @@ Outside work, I'm deep in the AI builder ecosystem: automating workflows with **
 ![Samyak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamyakJ05&show_icons=true&theme=dark&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyakJ05&layout=compact&theme=dark&hide_border=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamyakJ05&theme=dark&hide_border=true)
+
 </div>
 
 ---
@@ -153,7 +159,7 @@ Outside work, I'm deep in the AI builder ecosystem: automating workflows with **
 
 - 📧 [sj.samyakj@gmail.com](mailto:sj.samyakj@gmail.com)
 - 💼 [linkedin.com/in/samyakj05](https://www.linkedin.com/in/samyakj05/)
-- 🌐 [samyak.space/portfolio](https://samyak.space/portfolio)
+- 🌐 [samyak.space](https://samyak.space)
 - 🐙 [github.com/SamyakJ05](https://github.com/SamyakJ05)
 - 🐦 [@_samyakk](https://x.com/_samyakk) on X
 
