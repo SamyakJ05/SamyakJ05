@@ -142,19 +142,6 @@ Outside work, I'm deep in the AI builder ecosystem: automating workflows with **
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Samyak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamyakJ05&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyakJ05&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamyakJ05&theme=dark&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Let's Talk
 
 - 📧 [sj.samyakj@gmail.com](mailto:sj.samyakj@gmail.com)
