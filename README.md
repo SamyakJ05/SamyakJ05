@@ -19,9 +19,9 @@
 
 ---
 
-## 🚀 Spotlight: Amazon AIdeaS 2026 — Innovation Award Winner
+## 🚀 Spotlight: Amazon AIdeaS 2026: Innovation Award Winner
 
-> Built **[RetainIQ](https://retainiq.cloud/)** — an AI-powered cloud product — and reached the **finalist stage** of Amazon's global AI innovation competition.  
+> Built **[RetainIQ](https://retainiq.cloud/)**, an AI-powered cloud product, and reached the **finalist stage** of Amazon's global AI innovation competition.  
 > Published a detailed technical deep-dive on the AWS Builder Center.
 
 [![Read Article](https://img.shields.io/badge/Read_the_Article-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://builder.aws.com/content/3CV2aFroWhni2e6MGlj8kLSDbCY/aideas-finalist-retainiq)
@@ -31,9 +31,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer at UBS Pune** building cloud-native data architecture and post-trade systems on **Azure** — while simultaneously pursuing a **PGDM in Finance from XLRI Jamshedpur**.
+I'm a **Software Engineer at UBS Pune** building cloud-native data architecture and post-trade systems on **Azure**, while simultaneously pursuing a **PGDM in Finance from XLRI Jamshedpur**.
 
-Outside work, I'm deep in the AI builder ecosystem: automating workflows with **n8n**, prototyping with **LangChain**, and shipping products fast with AI IDEs — because the best way to understand a tool is to build something real with it.
+Outside work, I'm deep in the AI builder ecosystem: automating workflows with **n8n**, prototyping with **LangChain**, and shipping products fast with AI IDEs, because the best way to understand a tool is to build something real with it.
 
 ---
 
@@ -84,23 +84,23 @@ Outside work, I'm deep in the AI builder ecosystem: automating workflows with **
 | **Software Engineer Intern** | Ford Pro | Jun 2023 – Dec 2023 | Bengaluru, India |
 | **ML & Android Intern** | ICAR – NIAP | Jun 2022 – Aug 2022 | Delhi, India |
 
-### UBS — Software Engineer *(Aug 2024 – Present)*
+### UBS: Software Engineer *(Aug 2024 – Present)*
 - Building a cloud-native **data mesh architecture** on Azure; developing Java and Kotlin/Spring Boot microservices for scalable data and report generation for post-trade activities
 - Automated deployments with **GitLab CI/CD pipelines**, reducing manual effort by **50%**
 - Provisioned **100+ Azure resources** using Terraform & Ansible templates, cutting environment setup time by **80%**
 - Implemented **IAM-based authentication** per banking security standards; enhanced reliability with Splunk & BigPanda monitoring
 - Building internal tools using **spec-driven AI development**, improving team efficiency by **50%+**
 
-### UBS — Software Engineer Intern *(Jan 2024 – Aug 2024)*
+### UBS: Software Engineer Intern *(Jan 2024 – Aug 2024)*
 - Built microservices integrated with **Azure OpenAI, Azure Search, and Databricks** for intelligent document retrieval and summarisation
 - Optimised data storage via **ADLS Gen2**, achieving **50% reduction** in storage costs
 - Prototyped AI-powered data access solutions as groundwork for the enterprise cloud AI and data mesh strategy
 
-### Ford Pro — Software Engineer Intern *(Jun 2023 – Dec 2023)*
+### Ford Pro: Software Engineer Intern *(Jun 2023 – Dec 2023)*
 - Worked with **Large Language Models** to develop internal tools for streamlining bug resolution workflows
 - Automated the bug reporting process; trained and deployed a **conversational chatbot** for internal application support
 
-### ICAR – NIAP — ML & Android Intern *(Jun 2022 – Aug 2022)*
+### ICAR - NIAP: ML & Android Intern *(Jun 2022 – Aug 2022)*
 - Trained an ML model using **Keras and TensorFlow** to detect wheat plant diseases
 - Built a user-friendly **Android app** integrating the ML model for field use
 
@@ -110,12 +110,12 @@ Outside work, I'm deep in the AI builder ecosystem: automating workflows with **
 
 | # | Award | Issuer |
 |---|-------|--------|
-| 🚀 | **Amazon AIdeaS 2026 Finalist** — Built RetainIQ, an AI-powered cloud product | Amazon Web Services |
-| 📄 | **Published Research** — "EfficientNet architecture and attention mechanism-based wheat disease identification model" | Procedia Computer Science, Elsevier 2024 |
-| 🏆 | **FOSS HACK 2020 Prize Winner** — National open-source hackathon | FOSS United |
-| 🏅 | **Gold Certified Engineer** — Highest internal technical certification | UBS |
-| 🏆 | **Differentiator Award** — Outstanding contribution & exceptional impact | UBS |
-| 🥇 | **Solution Design & Coding Labs Winner** — Cloud Native & GenAI tracks | UBS Internal Hackathons |
+| 🚀 | **Amazon AIdeaS 2026 Finalist**: Built RetainIQ, an AI-powered cloud product | Amazon Web Services |
+| 📄 | **Published Research**: "EfficientNet architecture and attention mechanism-based wheat disease identification model" | Procedia Computer Science, Elsevier 2024 |
+| 🏆 | **FOSS HACK 2020 Prize Winner**: National open-source hackathon | FOSS United |
+| 🏅 | **Gold Certified Engineer**: Highest internal technical certification | UBS |
+| 🏆 | **Differentiator Award**: Outstanding contribution & exceptional impact | UBS |
+| 🥇 | **Solution Design & Coding Labs Winner**: Cloud Native & GenAI tracks | UBS Internal Hackathons |
 
 ---
 
@@ -123,8 +123,8 @@ Outside work, I'm deep in the AI builder ecosystem: automating workflows with **
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**RetainIQ**](https://retainiq.cloud/) | AI knowledge-risk platform — Amazon AIdeaS 2026 Innovation Category Winner | Bedrock, AWS Lambda, DynamoDB, React |
-| [**Apex Atlas**](https://apexatlas.online) | F1 intelligence platform — GPS-accurate circuit telemetry, live race command hub, pit-strategy studio | Next.js 16, React 19, TypeScript |
+| [**RetainIQ**](https://retainiq.cloud/) | AI knowledge-risk platform: Amazon AIdeaS 2026 Innovation Category Winner | Bedrock, AWS Lambda, DynamoDB, React |
+| [**Apex Atlas**](https://apexatlas.online) | F1 intelligence platform: GPS-accurate circuit telemetry, live race command hub, pit-strategy studio | Next.js 16, React 19, TypeScript |
 | [**ProofBoard**](https://proofboard.samyak.space) | Evidence-first research workspace with server-enforced private workspaces | Next.js 16, TypeScript, Neon Postgres |
 | [**KineticFlow**](https://kinetic-flow.netlify.app) | Browser-native motion studio where a designer and an AI agent share one canvas via WebMCP | WebMCP, TypeScript, Canvas |
 | [**Soul Train**](https://soul-train-rqyr.onrender.com) | Mood-driven Spotify playlist generator with listening analytics | Python, Flask, Spotify API |
@@ -137,8 +137,8 @@ Outside work, I'm deep in the AI builder ecosystem: automating workflows with **
 
 | Degree | Institution | Year |
 |--------|------------|------|
-| PGDM — Finance (XOL Online Program) | XLRI Jamshedpur | 2025 – 2027 |
-| B.Tech — Computer Science & Engineering | Shiv Nadar University | 2020 – 2024 |
+| PGDM: Finance (XOL Online Program) | XLRI Jamshedpur | 2025 – 2027 |
+| B.Tech: Computer Science & Engineering | Shiv Nadar University | 2020 – 2024 |
 
 ---
 
