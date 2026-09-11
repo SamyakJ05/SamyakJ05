@@ -22,7 +22,7 @@
 
 ## 🚀 Spotlight: Amazon AIdeaS 2026: Innovation Award Winner
 
-> Built **[RetainIQ](https://retainiq.cloud/)**, an AI-powered cloud product, and reached the **finalist stage** of Amazon's global AI innovation competition.  
+> Built **[RetainIQ](https://retainiq.cloud/)**, an AI-powered cloud product, and **won** the Innovation Category of Amazon's global AI innovation competition.  
 > Published a detailed technical deep-dive on the AWS Builder Center.
 
 [![Read Article](https://img.shields.io/badge/Read_the_Article-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://builder.aws.com/content/3CV2aFroWhni2e6MGlj8kLSDbCY/aideas-finalist-retainiq)
@@ -119,7 +119,7 @@ Outside work, I'm deep in the AI builder ecosystem: automating workflows with **
 
 ---
 
-## ⚙️ GTM & Automation — Intellifunnel Labs
+## ⚙️ GTM & Automation: Intellifunnel Labs
 
 Building the backend automation stack for **[Intellifunnel Labs](https://intellifunnel.io)**, powering go-to-market workflows end-to-end.
 
@@ -137,7 +137,7 @@ Building the backend automation stack for **[Intellifunnel Labs](https://intelli
 
 | # | Award | Issuer |
 |---|-------|--------|
-| 🚀 | **Amazon AIdeaS 2026 Finalist**: Built RetainIQ, an AI-powered cloud product | Amazon Web Services |
+| 🚀 | **Amazon AIdeaS 2026 Innovation Award Winner**: Built RetainIQ, an AI-powered cloud product | Amazon Web Services |
 | 📄 | **Published Research**: "EfficientNet architecture and attention mechanism-based wheat disease identification model" | Procedia Computer Science, Elsevier 2024 |
 | 🏆 | **FOSS HACK 2020 Prize Winner**: National open-source hackathon | FOSS United |
 | 🏅 | **Gold Certified Engineer**: Highest internal technical certification | UBS |
