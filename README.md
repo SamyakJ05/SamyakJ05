@@ -151,12 +151,12 @@ Building the backend automation stack for **[Intellifunnel Labs](https://intelli
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**RetainIQ**](https://retainiq.cloud/) | AI knowledge-risk platform: Amazon AIdeaS 2026 Innovation Category Winner | Bedrock, AWS Lambda, DynamoDB, React |
+| [**SignalScan**](https://github.com/SamyakJ05/SEO-Optimisation) | Self-hosted SEO/AI-readiness crawler with evidence-backed action plans | Python, FastAPI, Playwright, React |
+| [**Email Verifier**](https://github.com/SamyakJ05/Email-Verifier) | Local SMTP-based email list verifier with catch-all detection | Python, SMTP, SQLite |
 | [**Apex Atlas**](https://apexatlas.online) | F1 intelligence platform: GPS-accurate circuit telemetry, live race command hub, pit-strategy studio | Next.js 16, React 19, TypeScript |
 | [**ProofBoard**](https://proofboard.samyak.space) | Evidence-first research workspace with server-enforced private workspaces | Next.js 16, TypeScript, Neon Postgres |
 | [**KineticFlow**](https://kinetic-flow.netlify.app) | Browser-native motion studio where a designer and an AI agent share one canvas via WebMCP | WebMCP, TypeScript, Canvas |
 | [**Soul Train**](https://soul-train-rqyr.onrender.com) | Mood-driven Spotify playlist generator with listening analytics | Python, Flask, Spotify API |
-| [**SignalScan**](https://github.com/SamyakJ05/SEO-Optimisation) | Self-hosted SEO/AI-readiness crawler with evidence-backed action plans | Python, FastAPI, Playwright, React |
-| [**Email Verifier**](https://github.com/SamyakJ05/Email-Verifier) | Local SMTP-based email list verifier with catch-all detection | Python, SMTP, SQLite |
 
 ---
 
