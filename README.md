@@ -119,6 +119,20 @@ Outside work, I'm deep in the AI builder ecosystem: automating workflows with **
 
 ---
 
+## ⚙️ GTM & Automation — Intellifunnel Labs
+
+Building the backend automation stack for **[Intellifunnel Labs](https://intellifunnel.io)**, powering go-to-market workflows end-to-end.
+
+- **Email automation**: drip sequences and lifecycle campaigns triggered off behavioral/CRM events
+- **Lead scoring & enrichment**: automated pipelines that qualify and enrich inbound leads before handoff
+- **CRM & workflow sync**: connecting marketing/sales tools so data stays consistent without manual entry
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Instantly](https://img.shields.io/badge/Instantly-000000?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
 ## 🏆 Recognition & Awards
 
 | # | Award | Issuer |
