@@ -12,6 +12,7 @@
 [![Email](https://img.shields.io/badge/Email-sj.samyakj@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sj.samyakj@gmail.com)
 [![X](https://img.shields.io/badge/X-_samyakk-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_samyakk)
 [![AWS Article](https://img.shields.io/badge/AWS_Builder_Center-RetainIQ_Article-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://builder.aws.com/content/3CV2aFroWhni2e6MGlj8kLSDbCY/aideas-finalist-retainiq)
+[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/SamyakJ05)
 
 📍 Pune, India
 
@@ -72,6 +73,18 @@ Outside work, I'm deep in the AI builder ecosystem: automating workflows with **
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamyakJ05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyakJ05&layout=compact&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamyakJ05&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
