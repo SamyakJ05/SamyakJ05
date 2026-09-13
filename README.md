@@ -20,10 +20,10 @@
 
 ---
 
-## 🚀 Spotlight: Amazon AIdeaS 2026: Innovation Award Winner
+## 🚀 Spotlight: Amazon AIdeaS 2026 — Innovation Award Winner
 
-> Built **[RetainIQ](https://retainiq.cloud/)**, an AI-powered cloud product, and **won** the Innovation Category of Amazon's global AI innovation competition.  
-> Published a detailed technical deep-dive on the AWS Builder Center.
+> Built **[RetainIQ](https://retainiq.cloud/)**, an AI-powered knowledge-risk product, and **won** the Innovation Category of Amazon's global AI innovation competition.
+> Public write-up: [AWS Builder Center](https://builder.aws.com/content/3CV2aFroWhni2e6MGlj8kLSDbCY/aideas-finalist-retainiq)
 
 [![Read Article](https://img.shields.io/badge/Read_the_Article-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://builder.aws.com/content/3CV2aFroWhni2e6MGlj8kLSDbCY/aideas-finalist-retainiq)
 [![Visit RetainIQ](https://img.shields.io/badge/Visit_RetainIQ-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://retainiq.cloud/)
@@ -44,29 +44,32 @@ Outside work, I'm deep in the AI builder ecosystem: automating workflows with **
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 ### Cloud & Infrastructure
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ### Data & Messaging
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
 ### AI / GenAI
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=flat-square&logo=openai&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![Windsurf](https://img.shields.io/badge/Windsurf-00C7B7?style=flat-square&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ### DevOps & Monitoring
@@ -80,9 +83,9 @@ Outside work, I'm deep in the AI builder ecosystem: automating workflows with **
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=SamyakJ05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SamyakJ05&layout=compact&theme=tokyonight&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamyakJ05&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamyakJ05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyakJ05&layout=compact&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=SamyakJ05&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -127,10 +130,6 @@ Building the backend automation stack for **[Intellifunnel Labs](https://intelli
 - **Lead scoring & enrichment**: automated pipelines that qualify and enrich inbound leads before handoff
 - **CRM & workflow sync**: connecting marketing/sales tools so data stays consistent without manual entry
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Instantly](https://img.shields.io/badge/Instantly-000000?style=flat-square&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
 ---
 
 ## 🏆 Recognition & Awards
@@ -146,17 +145,22 @@ Building the backend automation stack for **[Intellifunnel Labs](https://intelli
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Shipped projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**RetainIQ**](https://retainiq.cloud/) | AI knowledge-risk platform: Amazon AIdeaS 2026 Innovation Category Winner | Bedrock, AWS Lambda, DynamoDB, React |
-| [**SignalScan**](https://github.com/SamyakJ05/SEO-Optimisation) | Self-hosted SEO/AI-readiness crawler with evidence-backed action plans | Python, FastAPI, Playwright, React |
-| [**Email Verifier**](https://github.com/SamyakJ05/Email-Verifier) | Local SMTP-based email list verifier with catch-all detection | Python, SMTP, SQLite |
-| [**Apex Atlas**](https://apexatlas.online) | F1 intelligence platform: GPS-accurate circuit telemetry, live race command hub, pit-strategy studio | Next.js 16, React 19, TypeScript |
-| [**ProofBoard**](https://proofboard.samyak.space) | Evidence-first research workspace with server-enforced private workspaces | Next.js 16, TypeScript, Neon Postgres |
-| [**KineticFlow**](https://kinetic-flow.netlify.app) | Browser-native motion studio where a designer and an AI agent share one canvas via WebMCP | WebMCP, TypeScript, Canvas |
-| [**Soul Train**](https://soul-train-rqyr.onrender.com) | Mood-driven Spotify playlist generator with listening analytics | Python, Flask, Spotify API |
+Product name and GitHub slug are listed separately so a recruiter scanning repos can map them in one glance.
+
+| Product | Repo | Live | What it is |
+|---------|------|------|------------|
+| **RetainIQ** | source private | [retainiq.cloud](https://retainiq.cloud/) | Knowledge-risk platform. Amazon AIdeaS 2026 Innovation winner. |
+| **SignalScan** | [SEO-Optimisation](https://github.com/SamyakJ05/SEO-Optimisation) | self-hosted | SEO / AI-readiness crawler with evidence-backed action plans |
+| **Email Verifier** | [Email-Verifier](https://github.com/SamyakJ05/Email-Verifier) | CLI | Local SMTP verifier with catch-all detection |
+| **Apex Atlas** | [F1](https://github.com/SamyakJ05/F1) | [apexatlas.online](https://apexatlas.online) | F1 telemetry, race-command hub, pit-strategy studio |
+| **ProofBoard** | [ProofBoard](https://github.com/SamyakJ05/ProofBoard) | [proofboard.samyak.space](https://proofboard.samyak.space) | Evidence-first research workspace |
+| **Orbit** | [Orbit](https://github.com/SamyakJ05/Orbit) | [orbit.samyak.space](https://orbit.samyak.space) | Private 3D travel recap on a real-coastline globe |
+| **trader** | [trader](https://github.com/SamyakJ05/trader) | local | Broker-agnostic Indian algo platform; paper trading only |
+| **KineticFlow** | [KineticFlow](https://github.com/SamyakJ05/KineticFlow) | [demo](https://kinetic-flow.netlify.app) | Designer + AI agent sharing one canvas via WebMCP |
+| **DeckIQ** | [DeckIQ](https://github.com/SamyakJ05/DeckIQ) | — | IBM Bob Hackathon pitch-deck critique. **Not** RetainIQ. |
+| **Soul Train** | [Soul-Train](https://github.com/SamyakJ05/Soul-Train) | [demo](https://soul-train-rqyr.onrender.com) | Mood-driven Spotify playlist generator |
 
 ---
 
@@ -169,7 +173,7 @@ Building the backend automation stack for **[Intellifunnel Labs](https://intelli
 
 ---
 
-## 📫 Let's Talk
+## 📬 Let's Talk
 
 - 📧 [sj.samyakj@gmail.com](mailto:sj.samyakj@gmail.com)
 - 💼 [linkedin.com/in/samyakj05](https://www.linkedin.com/in/samyakj05/)
