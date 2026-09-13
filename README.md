@@ -152,9 +152,9 @@ Product name and GitHub slug are listed separately so a recruiter scanning repos
 | Product | Repo | Live | What it is |
 |---------|------|------|------------|
 | **RetainIQ** | source private | [retainiq.cloud](https://retainiq.cloud/) | Knowledge-risk platform. Amazon AIdeaS 2026 Innovation winner. |
-| **SignalScan** | [SEO-Optimisation](https://github.com/SamyakJ05/SEO-Optimisation) | self-hosted | SEO / AI-readiness crawler with evidence-backed action plans |
+| **SignalScan** | [signalscan](https://github.com/SamyakJ05/signalscan) | self-hosted | SEO / AI-readiness crawler with evidence-backed action plans |
 | **Email Verifier** | [Email-Verifier](https://github.com/SamyakJ05/Email-Verifier) | CLI | Local SMTP verifier with catch-all detection |
-| **Apex Atlas** | [F1](https://github.com/SamyakJ05/F1) | [apexatlas.online](https://apexatlas.online) | F1 telemetry, race-command hub, pit-strategy studio |
+| **Apex Atlas** | [apex-atlas](https://github.com/SamyakJ05/apex-atlas) | [apexatlas.online](https://apexatlas.online) | F1 telemetry, race-command hub, pit-strategy studio |
 | **ProofBoard** | [ProofBoard](https://github.com/SamyakJ05/ProofBoard) | [proofboard.samyak.space](https://proofboard.samyak.space) | Evidence-first research workspace |
 | **Orbit** | [Orbit](https://github.com/SamyakJ05/Orbit) | [orbit.samyak.space](https://orbit.samyak.space) | Private 3D travel recap on a real-coastline globe |
 | **trader** | [trader](https://github.com/SamyakJ05/trader) | local | Broker-agnostic Indian algo platform; paper trading only |
